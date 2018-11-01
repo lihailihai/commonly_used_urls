@@ -24,7 +24,7 @@
 > **documents** [https://docs.docker.com/](https://docs.docker.com/)  
 > **chinese documents** [http://www.docker.org.cn](http://www.docker.org.cn)  
 > **dockerfile** [https://github.com/ufoym/deepo/tree/master/docker](https://github.com/ufoym/deepo/tree/master/docker)  
-### mirrirs shu
+### mirrors shu
 > **url:** [http://mirrors.shu.edu.cn/](http://mirrors.shu.edu.cn/)
 ### markdown
 > **url:**[https://www.typora.io/](https://www.typora.io/)
