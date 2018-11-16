@@ -6,8 +6,9 @@
 ### yifangyun
 > **url** [https://v2.fangcloud.com](https://v2.fangcloud.com)
 ### IIplab
-> **url:**[http://www.findai.net](http://www.findai.net)  
-
+> **url:**[http://www.findai.net](http://www.findai.net) 
+## downloads
+>  **Itellyou**[https://msdn.itellyou.cn](https://msdn.itellyou.cn)
 ## Gpu lib
 ### cuda
 > **documents**[https://docs.nvidia.com/](https://docs.nvidia.com/)
